@@ -7,7 +7,7 @@ Hello! I'm Emmanuel Kanda, a passionate Junior Software and Data Engineer with a
 - **Front-End**: React, HTML, CSS
 - **Back-End**: Node.js, Express
 - **Databases**: MongoDB, SQL, Postgres
-- **Tools**: Git, GitHub, VS Code, AWS, Azure, Apache-airflow,KNIME, android studio
+- **Tools**: Git, GitHub, VS Code, AWS, Azure, Apache-airflow,KNIME, ETL pipelines, android studio
 
 
 ### Contact 📫
